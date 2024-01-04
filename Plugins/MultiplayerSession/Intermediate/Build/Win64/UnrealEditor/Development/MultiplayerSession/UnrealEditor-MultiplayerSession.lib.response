@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSession.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\work\PetWar\Intermediate\Build\Win64\PetWarEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\work\PetWar\Plugins\MultiplayerSession\Intermediate\Build\Win64\UnrealEditor\Development\MultiplayerSession\Module.MultiplayerSession.cpp.obj"
+"D:\work\PetWar\Plugins\MultiplayerSession\Intermediate\Build\Win64\UnrealEditor\Development\MultiplayerSession\Module.MultiplayerSession.gen.cpp.obj"
+"D:\work\PetWar\Plugins\MultiplayerSession\Intermediate\Build\Win64\UnrealEditor\Development\MultiplayerSession\Default.rc2.res"
+/OUT:"D:\work\PetWar\Plugins\MultiplayerSession\Intermediate\Build\Win64\UnrealEditor\Development\MultiplayerSession\UnrealEditor-MultiplayerSession.lib"
